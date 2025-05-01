@@ -75,7 +75,7 @@ All models were evaluated using both train/test splits and 5-fold cross-validati
 ## 📌 How to Run
 1. Clone the repository
 ```bash
-   git clone https://github.com/<your-username>/NFT_Music_Price_Prediction.git
+   git clone https://github.com/Haleema33/NFT_Music_Price_Prediction.git
 ```
 2. Install dependencies
 ```bash
